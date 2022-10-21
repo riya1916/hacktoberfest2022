@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Check if Binary Tree BST
 struct Node {
     int data;
     Node * left, * right;
